@@ -1,7 +1,7 @@
 # Readme for Compilation Example
 
 ## Overview
-This document provides a detailed explanation of the source code, compiler, object code, linker, and executable file using the example provided in the [`CompilationExample`](Chapter01) folder.
+This document provides a detailed explanation of the source code, compiler, object code, linker, and executable file using the example provided in the [`CompilationExample`](CompilationExample ) folder.
 
 ## Source Code
 The source code is the human-readable code written in a programming language, in this case, C++. It typically has a `.cpp` extension. The source code contains the logic and instructions that define the behavior of the program.
