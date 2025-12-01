@@ -179,10 +179,3 @@ Always use **one toolchain** for the whole build.
 * Calling conventions differ between 32-bit, Linux, macOS, and Windows, so assembly must match the target platform.
 
 ---
-
-If you need, I can also include:
-
-* 64-bit assembly version
-* MSVC/MASM version
-* Diagrams explaining stack layout
-* A YouTube-ready script for this tutorial
