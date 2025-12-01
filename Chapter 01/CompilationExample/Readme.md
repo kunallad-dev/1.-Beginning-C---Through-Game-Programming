@@ -20,6 +20,8 @@ _add_numbers:
     addl 8(%esp), %eax   # Add 'b' to EAX
 
     ret                  # Return the result in EAX
+
+```
 2) `LinkingExample01.cpp`
 
 ```cpp
